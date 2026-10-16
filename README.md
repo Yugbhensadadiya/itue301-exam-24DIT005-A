@@ -176,6 +176,6 @@ PORT=5000
 
 Yug Patel
 
-B.Tech Computer Science
+B.Tech Information Technology
 
-CHARUSAT
+DEPSTAR,CHARUSAT
